@@ -82,6 +82,10 @@ nav {
   margin-bottom: 0.75rem;
 }
 
+.hero-word {
+  white-space: nowrap;
+}
+
 .hero-letter {
   display: inline-block;
   color: var(--color-accent);
