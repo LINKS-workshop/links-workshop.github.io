@@ -59,12 +59,21 @@
       ]
     },
     {
-      "name": "Aleksandra Urman",
-      "affiliation": "University of Zurich",
-      "website": "https://aleksandra-urman.ch/",
+      "name": "Debora Nozza",
+      "affiliation": "Bocconi University",
+      "website": "https://www.deboranozza.com/",
       "links": [
-        { "label": "Bluesky", "url": "https://bsky.app/profile/aurman21.bsky.social" },
-        { "label": "Google Scholar", "url": "https://scholar.google.com/citations?user=ZMj9C4cAAAAJ&hl=en" }
+        { "label": "Bluesky", "url": "https://bsky.app/profile/deboranozza.bsky.social" },
+        { "label": "Google Scholar", "url": "https://scholar.google.it/citations?hl=it&user=AKi-UWQAAAAJ" }
+      ]
+    },
+    {
+      "name": "Isabelle Augenstein",
+      "affiliation": "University of Copenhagen",
+      "website": "https://isabelleaugenstein.github.io/",
+      "links": [
+        { "label": "X", "url": "https://twitter.com/IAugenstein" },
+        { "label": "Google Scholar", "url": "https://scholar.google.co.uk/citations?user=DjJp0dcAAAAJ&hl=en" }
       ]
     }
   ]
