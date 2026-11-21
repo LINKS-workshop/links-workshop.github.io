@@ -52,6 +52,7 @@ nav {
 /* LAYOUT */
 .page-col {
   width: 50%;
+  max-width: 960px;
   margin-left: auto;
   margin-right: auto;
   padding-left: 2rem;
@@ -248,9 +249,12 @@ footer {
   color: #bbb;
 }
 
-@media (max-width: 500px) {
+@media (max-width: 768px) {
+  .page-col { width: 90%; }
   .hero-acronym { font-size: 3.5rem; }
   .hero-subtitle { font-size: 1.1rem; }
+}
+
+@media (max-width: 500px) {
   .nav-links { gap: 1.1rem; }
-  .page-col { width: 90%; padding-left: 1rem; padding-right: 1rem; }
 }
